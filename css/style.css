@@ -1,0 +1,200 @@
+body
+{
+    box-sizing:border-box;
+    margin:0px;
+    padding:0px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+h2{
+    
+    font-size:41px;
+    margin-top:90px;
+    text-align:center;
+    font-weight:600;
+}
+
+
+.menu{
+    height:130px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-div{
+    text-align:center;
+    
+}
+.navbar-div a{
+    padding-top:44px;
+    padding:55px;
+    font-weight:700;
+    color:#000;
+}
+
+/*section 1*/
+.header-img {
+    padding-left:0px;
+}
+.header-img img{
+    width: 100%;
+}
+
+
+
+.btn-header{
+    width:215px;
+    height: 56px;
+    background:#0093cd;
+    border-radius:25px;
+   border:0px;
+    color:#fff;
+    margin-bottom:59px;
+    font-size:19px;
+}
+.s9-content h3{
+font-size:40px;
+    text-align:right;
+    font-weight:600;
+    padding-right:30px;
+}
+.s9-content h3::after{
+    margin-left:5px;
+    padding-left:5px;
+    content:"S9+";
+    border-left:2px solid #000;
+}
+.s9-content h2 span{
+    color:#0093cd;
+}
+.s9-content h2{
+    text-align: left;
+    font-size:41px;
+    padding-top:123px;
+    margin:0px;
+    margin-bottom:29px;
+    font-weight: 600;
+}
+/*co zyskujesz*/
+.wraper{
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right:auto;
+}
+.wraper h2{
+    margin-bottom:46px;
+}
+
+.img-content3{
+    height:230px;
+    margin-bottom:10px;
+}
+
+    #content3-padding,#content3-padding1{
+        padding-top:30px;
+    } 
+.wraper .btn-header{
+    margin-top:45px;
+    margin-bottom:50px;
+}
+.wraper p{
+    margin-bottom:50px;
+}
+
+/*sectio color*/
+.section-color{
+    background:#fafafa;
+}
+
+.section-color iframe{
+    margin-bottom:78px;
+    
+}
+.section-color h2{
+    margin-top:58px;
+    margin-bottom:50px;
+}
+
+.section-color h4{
+    height:38px;
+    font-weight:600;
+}
+
+ .wraper-img{
+    height: 108px;
+}
+
+.btn-color{
+    width:189px;
+    height:48px;
+background:#1173ec;
+    color:#fff;
+    border-radius:20px;
+    border:0px;
+    font-size:17px;
+    margin-bottom:45px;
+    
+}
+ button.color-item{
+    background:#fff;
+     border:1px solid #1173ec; 
+     color: #1173ec;
+}
+
+/*chron srodowisko section*/
+
+.environment p{
+    text-align:center;
+    margin-top:31PX;
+    margin-bottom:60px;
+}
+
+/*poznaj galaxy*/
+
+.galaxy-know{
+    padding-top:63px;
+    padding-left:60px;
+    
+}
+.galaxy-know h4,.galaxy-know p{
+    padding-left:23px;
+}
+
+.write{
+    margin-bottom:71px;
+}
+
+div.wraper-fluid{
+    width: 100%;
+    background:#000;
+    height: 632px;
+}
+
+div.wraper-fluid h2{
+    padding-top:202px;
+    color:#fff;
+    text-align: left;
+    padding-left:92px;
+    margin:0px;
+}
+div.wraper-fluid h2 span{
+    color:#1173ec;
+}
+
+.btn-footer{
+    border-radius:20px;
+    background:#1173ec;
+    color:#fff;
+    width: 318px;
+    height:62px;
+    border:0px;
+    font-size:19px;
+    margin-left: 92px;
+    margin-top:49px;
+}
+div.wraper-fluid figure{
+    padding-top:120px;
+    padding-left:46px
+}
+
+
